@@ -1,9 +1,9 @@
 {
-    "baseUrl": "http://dciqsbmapp01.dci.local:8089/",
-    "video": false,
-    "environment": "QA",
-    "env": {
-        "specificUrl": "",
-        "username": ""
-      }
+  "baseUrl": "https://tienda.claro.com.ar/",
+  "video": false,
+  "environment": "QA",
+  "env": {
+    "specificUrl": "",
+    "username": ""
+  }
 }

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run NO_COLOR=1"
+    "test": "cypress run NO_COLOR=1",
+    "open": "cypress open"
   },
   "keywords": [],
   "author": "",
@@ -11,7 +12,7 @@
   "description": "",
   "dependencies": {
     "axe-core": "^4.2.1",
-    "cypress": "^7.4.0",
+    "cypress": "^9.6.0",
     "cypress-axe": "^0.12.2",
     "lodash": "^4.17.21"
   }
